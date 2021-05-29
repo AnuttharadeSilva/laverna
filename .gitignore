@@ -62,7 +62,7 @@
 # build/Release
 
 # # Dependency directories
- node_modules
+# node_modules
 # jspm_packages
 
 # # Optional npm cache directory
@@ -146,4 +146,4 @@
 
 # # Windows shortcuts
 # *.lnk
-node_modules
+# node_modules
