@@ -1,0 +1,13 @@
+{
+  "name": "to-markdown",
+  "homepage": "https://github.com/domchristie/to-markdown",
+  "_release": "b49b7b2ee5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "jquery",
+    "commit": "b49b7b2ee5ca41b793775015932e0b3f42d26269"
+  },
+  "_source": "https://github.com/domchristie/to-markdown.git",
+  "_target": "jquery",
+  "_originalSource": "to-markdown"
+}

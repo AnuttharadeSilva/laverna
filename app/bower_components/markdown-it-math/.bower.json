@@ -1,0 +1,34 @@
+{
+  "name": "markdown-it-math",
+  "main": "dist/markdown-it-math.js",
+  "version": "4.0.0",
+  "authors": [
+    "Rúnar Berg Baugsson Sigríðarson <runarberg@zoho.com>"
+  ],
+  "description": "Markdown-it plugin to include math in your document",
+  "keywords": [
+    "markdown-it",
+    "markdown-it-plugin",
+    "markdown",
+    "MathML",
+    "AsciiMath"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/runarberg/markdown-it-math",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "4.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.0",
+    "commit": "0a1062af77abc4dc0e18f0177b4b9937c5762904"
+  },
+  "_source": "https://github.com/runarberg/markdown-it-math.git",
+  "_target": "~4.0.0",
+  "_originalSource": "markdown-it-math"
+}

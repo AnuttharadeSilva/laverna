@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - 0.10
+branches:
+  only:
+    - master
+sudo: false
+before_script: make deps
+script:
+    - make test
+    - scripts/validate-greenkeeper-pr.sh
