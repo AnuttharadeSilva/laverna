@@ -1,0 +1,14 @@
+{
+  "name": "chai-as-promised",
+  "homepage": "https://github.com/domenic/chai-as-promised",
+  "version": "5.3.0",
+  "_release": "5.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v5.3.0",
+    "commit": "9f75ff366e480144dbd4187aad509dbd50d4a3f1"
+  },
+  "_source": "https://github.com/domenic/chai-as-promised.git",
+  "_target": "^5.3.0",
+  "_originalSource": "chai-as-promised"
+}
